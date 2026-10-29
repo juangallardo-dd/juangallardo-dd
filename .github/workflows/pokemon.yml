@@ -1,0 +1,21 @@
+name: Pokemon Game
+on:
+  issues:
+    types: [opened]
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update-pokemon:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Pokemon Action
+        uses: 2049r/pokemon-readme@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
