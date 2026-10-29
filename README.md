@@ -15,6 +15,14 @@
   <img src="https://img.shields.io/badge/caf%C3%A9-infinito-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white" />
 </p>
 
+<!-- Pac-Man comendo as contribuições (gerado pelo workflow .github/workflows/pacman.yml) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 🧑‍💻 Sobre mim
@@ -29,7 +37,6 @@ const juan = {
   scraping: ["Puppeteer", "Axios", "captcha solver"],
   frontend: ["React", "Bootstrap"],
   tools: ["Insomnia", "Jest", "PM2", "GitHub Actions", "Jira", "Redash"],
-  currentlyFighting: ["captcha do Detran", "timezone UTC x BRT", "import circular"],
   motto: "se não tem log, não aconteceu",
 };
 ```
@@ -73,14 +80,6 @@ const juan = {
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=juangallardo-dd&theme=tokyonight&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853" />
-</p>
-
-<!-- Cidade 3D das contribuições (gerada pelo workflow .github/workflows/pacman.yml) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/profile-night-green.svg" />
-    <img src="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/profile-green-animate.svg" />
-  </picture>
 </p>
 
 ---
@@ -137,14 +136,6 @@ const juan = {
 </details>
 
 ---
-
-<!-- Pac-Man comendo as contribuições (gerado pelo workflow .github/workflows/pacman.yml) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/pacman-contribution-graph-dark.svg" />
-    <img src="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/pacman-contribution-graph.svg" />
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,100:00C853&height=110&section=footer" />
