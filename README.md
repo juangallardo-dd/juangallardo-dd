@@ -1,6 +1,8 @@
 <div align="center">
-  <h2>O Meu Cartão de Treinador 🃏</h2>
-  <p>As minhas estatísticas do GitHub em formato Pokémon!</p>
+  <h2>As minhas Estatísticas</h2>
+  <!-- Cartão de Status Geral -->
+  <img src="https://github-readme-stats.vercel.app/api?username=juangallardo-dd&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
   
-  <img src="https://github-readme-pokemon.vercel.app/api?username=juangallardo-dd" alt="Estatísticas Pokémon de Juan" width="400">
+  <!-- Cartão de Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangallardo-dd&layout=compact&theme=tokyonight" alt="Top Linguagens" />
 </div>
