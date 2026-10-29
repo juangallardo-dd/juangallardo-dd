@@ -72,12 +72,15 @@ const juan = {
 ### 📊 Números
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juangallardo-dd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00C853&icon_color=00C853" />
   <img height="165" src="https://streak-stats.demolab.com?user=juangallardo-dd&theme=tokyonight&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853" />
 </p>
 
+<!-- Cidade 3D das contribuições (gerada pelo workflow .github/workflows/pacman.yml) -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=juangallardo-dd&theme=tokyo-night&hide_border=true&area=true&color=00C853&line=00C853&point=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/profile-night-green.svg" />
+    <img src="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/profile-green-animate.svg" />
+  </picture>
 </p>
 
 ---
@@ -135,11 +138,11 @@ const juan = {
 
 ---
 
-<!-- Cobrinha comendo as contribuições (gerada pelo workflow .github/workflows/snake.yml) -->
+<!-- Pac-Man comendo as contribuições (gerado pelo workflow .github/workflows/pacman.yml) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/juangallardo-dd/juangallardo-dd/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
