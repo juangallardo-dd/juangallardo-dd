@@ -1,11 +1,11 @@
 <!-- Header animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0B3D2E&height=200&section=header&text=Juan%20Gallardo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Dev%20%40%20D%C3%A9bito%20Direto&descAlignY=56&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0B3D2E&height=200&section=header&text=Juan%20Gallardo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Dev%20%40%20D%C3%A9bito%20Direto&descAlignY=56&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://github.com/juangallardo-dd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=620&lines=Oi!+Eu+sou+o+Juan;Dev+Backend+%40+D%C3%A9bito+Direto;Consultando+d%C3%A9bitos+em+27+Detrans;Deploy+na+sexta%3F+S%C3%B3+se+for+fix;console.log%28%27chegou+aqui%27%29;Funciona+no+local+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=620&lines=Oi!+Eu+sou+o+Juan;Dev+Full+Stack+%40+D%C3%A9bito+Direto;Consultando+d%C3%A9bitos+em+27+Detrans;Deploy+na+sexta%3F+S%C3%B3+se+for+fix;console.log%28%27chegou+aqui%27%29;Funciona+no+local+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ```ts
 const juan = {
-  role: "Backend Developer",
+  role: "Full Stack Developer",
   company: "Débito Direto",
   backend: ["TypeScript", "Node.js", "Express", "TypeORM", "BullMQ"],
   data: ["MySQL", "Redis", "DynamoDB"],
