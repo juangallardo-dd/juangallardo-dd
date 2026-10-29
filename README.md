@@ -35,8 +35,9 @@ const juan = {
   data: ["MySQL", "Redis", "DynamoDB"],
   cloud: ["Lambda", "Elastic Beanstalk", "CloudWatch", "S3", "SQS", "SSM"],
   scraping: ["Puppeteer", "Axios", "captcha solver"],
-  frontend: ["React", "Bootstrap"],
-  tools: ["Insomnia", "Jest", "PM2", "GitHub Actions", "Jira", "Redash"],
+  frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+  tools: ["Insomnia", "Jest", "k6", "PM2", "GitHub Actions", "Jira", "Redash"],
+  practices: ["Clean Code", "Clean Architecture", "SOLID", "Testes antes do refactor"],
   motto: "se não tem log, não aconteceu",
 };
 ```
@@ -44,7 +45,7 @@ const juan = {
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mysql,redis,aws,react,bootstrap,jest,githubactions,git,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,tailwind,mysql,redis,aws,bootstrap,jest,githubactions,git,vscode&perline=7" />
 </p>
 
 <p align="center">
@@ -54,6 +55,21 @@ const juan = {
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Testes</b><br>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-0B3D2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
 </p>
 
 <p align="center">
@@ -76,10 +92,13 @@ const juan = {
   <img src="https://img.shields.io/badge/Mac%20Mini-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-### 📊 Números
-
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=juangallardo-dd&theme=tokyonight&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853" />
+  <b>Boas práticas</b><br>
+  <img src="https://img.shields.io/badge/Clean%20Code-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0B3D2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code%20Review-0B3D2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testes%20automatizados-00C853?style=for-the-badge" />
 </p>
 
 ---
