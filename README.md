@@ -1,22 +1,6 @@
 <div align="center">
-  <h1>🎮 Pokémon Red Interativo</h1>
-  <p>Clica nos botões abaixo para jogar! (O jogo é partilhado com todos os visitantes)</p>
+  <h2>O Meu Cartão de Treinador 🃏</h2>
+  <p>As minhas estatísticas do GitHub em formato Pokémon!</p>
   
-  <img src="https://pokemon.farlow.dev/game" width="400" alt="Pokémon Red Game">
-  <br><br>
-  
-  <!-- Controlos Direcionais -->
-  <a href="https://pokemon.farlow.dev/input/UP">⬆️</a>
-  <br>
-  <a href="https://pokemon.farlow.dev/input/LEFT">⬅️</a>
-  <a href="https://pokemon.farlow.dev/input/DOWN">⬇️</a>
-  <a href="https://pokemon.farlow.dev/input/RIGHT">➡️</a>
-  <br><br>
-  
-  <!-- Botões de Ação -->
-  <a href="https://pokemon.farlow.dev/input/A">🅰️ Botão A</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://pokemon.farlow.dev/input/B">🅱️ Botão B</a>
-  <br><br>
-  <a href="https://pokemon.farlow.dev/input/START">▶️ Start</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://pokemon.farlow.dev/input/SELECT">⏸️ Select</a>
+  <img src="https://github-readme-pokemon.vercel.app/api?username=juangallardo-dd" alt="Estatísticas Pokémon de Juan" width="400">
 </div>
