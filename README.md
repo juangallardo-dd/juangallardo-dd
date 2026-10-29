@@ -25,23 +25,6 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
-
-```ts
-const juan = {
-  role: "Full Stack Developer",
-  company: "Débito Direto",
-  backend: ["TypeScript", "Node.js", "Express", "TypeORM", "BullMQ"],
-  data: ["MySQL", "Redis", "DynamoDB"],
-  cloud: ["Lambda", "Elastic Beanstalk", "CloudWatch", "S3", "SQS", "SSM"],
-  scraping: ["Puppeteer", "Axios", "captcha solver"],
-  frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
-  tools: ["Insomnia", "Jest", "k6", "PM2", "GitHub Actions", "Jira", "Redash"],
-  practices: ["Clean Code", "Clean Architecture", "SOLID", "Testes antes do refactor"],
-  motto: "se não tem log, não aconteceu",
-};
-```
-
 ### 🛠️ Stack
 
 <p align="center">
@@ -100,6 +83,23 @@ const juan = {
   <img src="https://img.shields.io/badge/Code%20Review-0B3D2E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Testes%20automatizados-00C853?style=for-the-badge" />
 </p>
+
+---
+### 🧑‍💻 Sobre mim
+
+```ts
+const juan = {
+  role: "Full Stack Developer",
+  company: "Débito Direto",
+  backend: ["TypeScript", "Node.js", "Express", "TypeORM", "BullMQ"],
+  data: ["MySQL", "Redis", "DynamoDB"],
+  cloud: ["Lambda", "Elastic Beanstalk", "CloudWatch", "S3", "SQS", "SSM"],
+  scraping: ["Puppeteer", "Axios"],
+  frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+  tools: ["Insomnia", "Jest", "k6", "PM2", "GitHub Actions", "Jira", "Redash"],
+  practices: ["Clean Code", "Clean Architecture", "SOLID"]
+};
+```
 
 ---
 
